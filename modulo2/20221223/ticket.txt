@@ -1,0 +1,8 @@
+Producto,Precio,Cantidad
+Nike Air Max 90, 139.99, 2, 
+Nike Air Force 1, 99.99, 1, 
+Nike SB Shane, 74.99, 2, 
+Nike Waffle One SE, 109.89, 1, 
+Nike Air Presto, 85.99, 1, 
+Nike React Vision, 119.8, 1, 
+Total = 845.63
